@@ -8,8 +8,8 @@ As of right now it only definitely works with the Windows version, not the Xbox 
 * 3D Model Extraction (`.obj`)
 * Universal Texture Extraction (`.png`)
 * Hardware-Lock Audio Bypass (`.wav`)
-* Custom Type Reader Injection:** Seamlessly handles custom `ContentTypeReader` locks (like Xenominer's `AnimationAux.ModelExtraReader`) by forcing the CLR to load an injected `XnaAux.dll` into active memory before MonoGame parses the assets.
-* Interactive CLI:** Simple, drag-and-drop terminal interface that automatically validates target directories.
+* Custom Type Reader Injection: Seamlessly handles custom `ContentTypeReader` locks (like Xenominer's `AnimationAux.ModelExtraReader`) by forcing the CLR to load an injected `XnaAux.dll` into active memory before MonoGame parses the assets.
+* Interactive CLI: Simple, drag-and-drop terminal interface that automatically validates target directories.
 
 ## Usage
 

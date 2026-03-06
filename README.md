@@ -14,7 +14,7 @@ As of right now it only definitely works with the Windows version, not the Xbox 
 ## Usage
 
 ### Prerequisites
-* A legal installation of *Xenominer*.
+* A installation of *Xenominer*.
 * The tool requires the companion `XnaAux.dll` (containing the decompiled Xenominer animation data structures) to be present in the exact same directory as the executable to bypass MonoGame's strict assembly resolution.
 
 ### Running the Extractor

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="XnaAux/XnaAux.csproj" Id="eb871623-77e5-4c09-b11c-0e7163960c81" />
+  <Project Path="XNAextractor/XNAextractor.csproj" />
+</Solution>

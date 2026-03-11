@@ -3,6 +3,8 @@
 A standalone C# console utility built with MonoGame designed to extract models, textures, and audio from compiled XNA 4 `.xnb` asset files. While specifically built to handle the custom data structures of the indie title *Xenominer*, the core extraction logic can be applied to many other XNA-based games. I have not tested it with other games.
 As of right now it only definitely works with the Windows version, not the Xbox 360 packaged version.
 
+Do whatever you want with the code. Feel free to modify it any way. Attribution is appreciated but not necessary. 
+
 ## Features
 
 * 3D Model Extraction (`.obj`)
